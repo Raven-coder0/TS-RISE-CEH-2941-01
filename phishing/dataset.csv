@@ -1,0 +1,11 @@
+url,label
+http://192.168.0.1/login,1
+https://secure-bank-login.com,1
+http://phishy-site.co/login,1
+https://google.com,0
+https://github.com,0
+http://abc.def.example.com,1
+https://myuniversity.edu/login,0
+http://login-user-data.com,1
+https://amazon.com,0
+http://login@secure-access.com,1
